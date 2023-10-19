@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #6E7322;
+	color: #A76626;
 	font-weight: 400;
 	font-family: 'Expletus Sans';
 }
@@ -108,7 +108,7 @@ ol {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
-	background: #4D764A;
+	background: #964B00;
 	letter-spacing: 2px;
 }
 .btn-primary:hover{
@@ -135,7 +135,7 @@ ol {
 	text-transform: uppercase;
 	display: inline-block;
 	padding: 13px 30px 12px;
-	background: #4D764A;
+	background: #964B00;
 	border: none;
 }
 
@@ -1806,6 +1806,12 @@ ol {
 .contact-form form button {
 	font-size: 18px;
 	letter-spacing: 2px;
+}
+
+.contact-info{
+	/* border: 1px solid black; */
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px  #888888;
 }
 
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
